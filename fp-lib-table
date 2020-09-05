@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name discret)(type Legacy)(uri "D:/TEC/Laboratorio de Micros/modules/modules/discret.mod")(options "")(descr ""))
+  (lib (name user)(type Legacy)(uri "D:/TEC/Laboratorio de Micros/modules/modules/user.mod")(options "")(descr ""))
+)
